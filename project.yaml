@@ -1,4 +1,4 @@
-id: nitian-theme
+id: 逆天主题
 name: 逆天主题（仙逆）游戏
 type: game
 status: active
@@ -10,7 +10,7 @@ sources:
   assets: docs/02-资产清单.md
   spec: docs/03-规格与规范.md
 
-handbook:
+通用规范:
   version: v1.0
   overrides: docs/03-规格与规范.md
 

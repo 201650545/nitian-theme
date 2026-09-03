@@ -6,9 +6,9 @@
 
 ## 当前状态（As of 2026-09-03）
 
-- 阶段：形态矩阵铺量期（6 系统 27 项变体，24/27 目检合格）
-- 当前重点：收尾 3 张变体；4 大境界 real 风格背景视频待验收
-- 最近重大变化：知识管理迁至本地 Obsidian vault + GitHub 多仓 SSOT（本仓 + handbook + workspace-index）
+- 阶段：形态矩阵 **27/27 收官**（全部目检合格）
+- 当前重点：4 大境界 real 风格背景视频待验收；v3 行路叙事设计稿待拍板
+- 最近重大变化：项目根迁至 `D:\逆天主题`；知识管理为本地 Obsidian vault + GitHub 多仓 SSOT（本仓 + 通用规范 + 项目索引）
 - 详细任务状态：docs/01-任务看板.md
 
 ## Source of Truth
@@ -20,20 +20,21 @@
 
 ## 依赖规范
 
-- handbook v1.0：https://github.com/201650545/handbook
+- 通用规范 v1.0：https://github.com/201650545/通用规范
 - 项目 override：docs/03-规格与规范.md
 
 ## 项目结构
 
-- `docs/` 知识库（本仓事实源）
-- `workers/` 资产生产与校验脚本
+- `docs/` 知识库（本仓事实源）：四件套 + `任务书/` + `归档/` + `设计/`
+- `workers/` 资产生产与校验脚本（py 管线 + 数据文件）
 - `assets/` 游戏内引用资产（成品图/视频/GLB 不入库）
 - `preview/` 形态矩阵成品（不入库）
 - `dsh-plugin/` DSH 插件
+- `tools/` 协作/采集工具脚本（与生产管线分离）
 
 ## 给 AI / Agent 的读取顺序
 
-1. 本 README → 2. docs/00 总览 → 3. tasks / assets / spec → 4. 需要时查 handbook v1.0
+1. 本 README → 2. docs/00 总览 → 3. tasks / assets / spec → 4. 需要时查 通用规范 v1.0
 
 ## 不要假设
 

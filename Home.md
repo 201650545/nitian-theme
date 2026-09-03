@@ -13,19 +13,19 @@
 - [[docs/00-项目总览]] — 项目是什么、结构地图、读取顺序
 - [[docs/01-任务看板]] — 每个任务的要求 / 验收标准 / 状态
 - [[docs/02-资产清单]] — 每项资产一行台账（✅ / ⏳ / 📦底图）
-- [[docs/03-规格与规范]] — 本项目规格；通用规范见 handbook
+- [[docs/03-规格与规范]] — 本项目规格；通用规范见「通用规范」仓
 
 ## 仓库体系（本地路径 ⇄ GitHub 同步层）
 
 | 仓 | 本地 | GitHub | 用途 |
 |---|---|---|---|
-| nitian-theme | `D:\逆天主题`（本 vault） | github.com/201650545/nitian-theme | 项目事实 + 代码 |
-| handbook | `D:\handbook`（独立 vault） | github.com/201650545/handbook | 通用规范 v1.0 + 模板 |
-| workspace-index | `D:\workspace-index`（独立 vault） | github.com/201650545/workspace-index | AI 统一入口：项目注册表 + 状态快照 |
+| 逆天主题 | `D:\逆天主题`（本 vault） | github.com/201650545/逆天主题 | 项目事实 + 代码 |
+| 通用规范 | `D:\通用规范`（独立 vault） | github.com/201650545/通用规范 | 通用规范 v1.0 + 模板 |
+| 项目索引 | `D:\项目索引`（独立 vault） | github.com/201650545/项目索引 | AI 统一入口：项目注册表 + 状态快照 |
 
-- 规则优先级：本项目 override > 本项目规格 > handbook 默认
+- 规则优先级：本项目 override > 本项目规格 > 通用规范默认
 - 定位：**Obsidian = 本地主读**；GitHub = 让 GPT 等非本地 Agent 随时实读
-- 在 Obsidian 左下角 vault 切换器可切到 handbook / workspace-index
+- 在 Obsidian 左下角 vault 切换器可切到 通用规范 / 项目索引
 
 ## 底图与成品
 
