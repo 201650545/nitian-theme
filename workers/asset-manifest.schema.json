@@ -1,0 +1,72 @@
+{
+  "$schema": "asset-manifest-v1",
+  "engine": "只读此文件；缺失资产自动降级 fallback_realm / null 字段",
+  "global": {
+    "default_fallback": "01_ningshi",
+    "renderer": "css-sprite | live2d | threejs",
+    "token_to_realm": [
+      { "realm": "01_ningshi", "from_tokens": 0, "to_tokens": 100000 },
+      { "realm": "02_zhuji", "from_tokens": 100000, "to_tokens": 1000000 },
+      { "realm": "03_jiedan", "from_tokens": 1000000, "to_tokens": 8000000 },
+      { "realm": "04_yuanying", "from_tokens": 8000000, "to_tokens": 20000000 },
+      { "realm": "05_huashen", "from_tokens": 20000000, "to_tokens": 50000000 },
+      { "realm": "06_yingbian", "from_tokens": 50000000, "to_tokens": 100000000 },
+      { "realm": "07_wending", "from_tokens": 100000000, "to_tokens": 200000000 },
+      { "realm": "08_yinyang", "from_tokens": 200000000, "to_tokens": 300000000 },
+      { "realm": "09_nie", "from_tokens": 300000000, "to_tokens": 450000000 },
+      { "realm": "10_suinie", "from_tokens": 450000000, "to_tokens": 600000000 },
+      { "realm": "11_kongnie", "from_tokens": 600000000, "to_tokens": 800000000 },
+      { "realm": "12_tatian", "from_tokens": 800000000, "to_tokens": null }
+    ]
+  },
+  "realms": {
+    "01_ningshi": {
+      "realm_id": "01_ningshi",
+      "name": "凝气期(15层)",
+      "theme": "恒岳杂役，初心起步",
+      "stage": "MVP",
+      "assets": {
+        "bg": "realms/01_ningshi/bg.webp",
+        "character": "realms/01_ningshi/wanglin.png",
+        "hero_poster": "realms/01_ningshi/hero.webp",
+        "bgm": "audiobank/bgm/01.opus",
+        "sfx_break": "audiobank/sfx/break_01.opus",
+        "transition_video": null
+      },
+      "fallback_realm": null,
+      "color": { "main": "#c9a55c", "accent": "#5a9e8f", "panel": "#131926", "base": "#0c0f16", "text": "#e6ddc8", "danger": "#b8453a" }
+    },
+    "04_yuanying": {
+      "realm_id": "04_yuanying",
+      "name": "元婴期",
+      "theme": "罗天星域，纵横一方",
+      "stage": "MVP",
+      "assets": {
+        "bg": "realms/04_yuanying/bg.webp",
+        "character": "realms/04_yuanying/wanglin.png",
+        "hero_poster": "realms/04_yuanying/hero.webp",
+        "bgm": "audiobank/bgm/04.opus",
+        "sfx_break": "audiobank/sfx/break_04.opus",
+        "transition_video": null
+      },
+      "fallback_realm": "01_ningshi",
+      "color": { "main": "#3b7fd4", "accent": "#7fb2e8", "panel": "#131926", "base": "#0c0f16", "text": "#e6ddc8", "danger": "#b8453a" }
+    },
+    "05_huashen": {
+      "realm_id": "05_huashen",
+      "name": "化神期",
+      "theme": "神游太虚",
+      "stage": "MVP",
+      "assets": {
+        "bg": "realms/05_huashen/bg.webp",
+        "character": "realms/05_huashen/wanglin.png",
+        "hero_poster": "realms/05_huashen/hero.webp",
+        "bgm": "audiobank/bgm/05.opus",
+        "sfx_break": "audiobank/sfx/break_05.opus",
+        "transition_video": null
+      },
+      "fallback_realm": "04_yuanying",
+      "color": { "main": "#8a9bb5", "accent": "#b8c6da", "panel": "#131926", "base": "#0c0f16", "text": "#e6ddc8", "danger": "#b8453a" }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "ningqi": {
+    "name": "凝气期",
+    "bg_file": "collected/ningqi/bg-01.jpg",
+    "bg_url": "https://c-ssl.duitang.com/uploads/item/201511/22/20151122005556_nGHPV.jpeg",
+    "bg_status": "已收集真实图片 (2160x1920)",
+    "fig_file": "collected/ningqi/figure-01.jpg",
+    "fig_url": "http://p0.ifengimg.com/pmop/2017/1020/15FFA0C37928A9A79642A49223A8A507CBA710DE_size29_w464_h516.jpeg",
+    "fig_status": "已收集真实图片 (464x516)"
+  },
+  "zhuji": {
+    "name": "筑基期",
+    "bg_file": "collected/zhuji/bg-01.jpg",
+    "bg_url": "https://bkimg.cdn.bcebos.com/pic/9213b07eca8065386dd6693098dda144ad3482d1",
+    "bg_status": "已收集真实图片 (1500x900)",
+    "fig_file": "collected/zhuji/figure-01.jpg",
+    "fig_url": "http://n.sinaimg.cn/sinacn10111/622/w900h522/20191120/2d8b-iipztff4894554.jpg",
+    "fig_status": "已收集真实图片 (900x522)"
+  },
+  "jiedan": {
+    "name": "结丹期",
+    "bg_file": "collected/jiedan/bg-01.jpg",
+    "bg_url": "http://n.sinaimg.cn/sinacn10112/357/w600h557/20181220/1209-hqnkypr5784524.jpg",
+    "bg_status": "已收集真实图片 (600x557)",
+    "fig_file": "collected/jiedan/figure-01.jpg",
+    "fig_url": "https://gd-hbimg.huaban.com/93ab532a437edb934f3cfb4cf5e88f5c4326313a3c217d-QZfiXl_fw658",
+    "fig_status": "已收集真实图片 (658x877)"
+  },
+  "yuanying": {
+    "name": "元婴期",
+    "bg_file": "collected/yuanying/bg-01.jpg",
+    "bg_url": "https://x0.ifengimg.com/res/2020/3CB4DDF77C451F2534E4FFA825474047349D5C60_size93_w640_h892.jpeg",
+    "bg_status": "已收集真实图片 (640x892)",
+    "fig_file": "collected/yuanying/figure-01.jpg",
+    "fig_url": "https://pic.ntimg.cn/file/20250415/35479210_170107869132_2.jpg",
+    "fig_status": "已收集真实图片 (1024x1024)"
+  },
+  "huashen": {
+    "name": "化神期",
+    "bg_file": "collected/huashen/bg-01.jpg",
+    "bg_url": "https://gd-hbimg.huaban.com/2d58f43427b702a9dfac74950b2ce1e3e293bf89328196-wZgLQ7_fw658",
+    "bg_status": "已收集真实图片 (658x1169)",
+    "fig_file": "collected/huashen/figure-01.jpg",
+    "fig_url": "https://c-ssl.duitang.com/uploads/blog/202202/19/20220219152436_b3adf.jpg",
+    "fig_status": "已收集真实图片 (1079x695)"
+  },
+  "yingbian": {
+    "name": "婴变期",
+    "bg_file": "collected/yingbian/bg-01.jpg",
+    "bg_url": "https://gd-hbimg.huaban.com/0824c2a4b43c0f46b98dd26db503d27fdca5901324d9af-AZOjDC_fw658",
+    "bg_status": "已收集真实图片 (658x876)",
+    "fig_file": "collected/yingbian/figure-01.jpg",
+    "fig_url": "https://pic3.zhimg.com/v2-630d7473e2dda7ed0879a9f899cf1bca_720w.jpg?source=172ae18b",
+    "fig_status": "已收集真实图片 (720x518)"
+  },
+  "wending": {
+    "name": "问鼎期",
+    "bg_file": "collected/wending/bg-01.jpg",
+    "bg_url": "https://imgs.699pic.com/images/601/189/939.jpg!detail.v1",
+    "bg_status": "已收集真实图片 (1000x1328)",
+    "fig_file": "collected/wending/figure-01.jpg",
+    "fig_url": "https://gd-hbimg.huaban.com/fb46be2fd313bd56fbbac50b091fb74f8783ba347f0d8f-7Qe8Tv_fw658",
+    "fig_status": "已收集真实图片 (658x585)"
+  },
+  "yinyang": {
+    "name": "阴虚阳实",
+    "bg_file": "collected/yinyang/bg-01.jpg",
+    "bg_url": "https://bkimg.cdn.bcebos.com/pic/b7003af33a87e950352aade1ca754443fbf2b3111ea2?x-bce-process=image/format,f_auto",
+    "bg_status": "已收集真实图片 (1200x800)",
+    "fig_file": "collected/yinyang/figure-01.jpg",
+    "fig_url": "http://img.alicdn.com/i1/58031922/O1CN01EMDEhM1Q4JqBAZKRa_!!58031922.jpg",
+    "fig_status": "已收集真实图片 (1600x2134)"
+  },
+  "nie": {
+    "name": "窥涅净涅",
+    "bg_file": "collected/nie/bg-01.jpg",
+    "bg_url": "https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/d63841decf784e6b834b525273655514?from=pc",
+    "bg_status": "已收集真实图片 (1000x1000)",
+    "fig_file": "collected/nie/figure-01.jpg",
+    "fig_url": "https://cdn.ggac.com/media/work/image/2022/09/3bd26a80-3123-11ed-b8bb-0242ac120002.jpg",
+    "fig_status": "已收集真实图片 (3840x3071)"
+  },
+  "suinie": {
+    "name": "碎涅",
+    "bg_file": "collected/suinie/bg-01.jpg",
+    "bg_url": "https://olimg.3dmgame.com/uploads/images/gamepc/20220823/1661246689_845696.jpg",
+    "bg_status": "已收集真实图片 (2560x1600)",
+    "fig_file": "collected/suinie/figure-01.jpg",
+    "fig_url": "https://gd-hbimg.huaban.com/81af5e97947f080700a15e73572717fa493795fb43026-bsnAiF_fw658",
+    "fig_status": "已收集真实图片 (658x1170)"
+  },
+  "kongnie": {
+    "name": "空涅四境",
+    "bg_file": null,
+    "bg_url": null,
+    "bg_status": "未收集",
+    "fig_file": null,
+    "fig_url": null,
+    "fig_status": "未收集"
+  },
+  "tatian": {
+    "name": "踏天九桥",
+    "bg_file": null,
+    "bg_url": null,
+    "bg_status": "未收集",
+    "fig_file": null,
+    "fig_url": null,
+    "fig_status": "未收集"
+  }
+}

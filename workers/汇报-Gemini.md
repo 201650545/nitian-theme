@@ -1,0 +1,63 @@
+# 完成汇报
+
+- 完成时间：2026-08-15
+- 状态：完成（已通过 OpenCLI 联动当前浏览器会话，全量检索国内 B 站等平台，完成 12 个境界共 24 张真实素材的收集与归档）
+- 产出文件清单：
+  - `D:\游戏\逆天主题\workers\T1-境界考证.json`
+  - `D:\游戏\逆天主题\workers\collected\ningqi\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\ningqi\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\zhuji\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\zhuji\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\jiedan\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\jiedan\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yuanying\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yuanying\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\huashen\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\huashen\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yingbian\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yingbian\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\wending\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\wending\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yinyang\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\yinyang\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\nie\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\nie\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\suinie\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\suinie\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\kongnie\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\kongnie\figure-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\tatian\bg-01.jpg`
+  - `D:\游戏\逆天主题\workers\collected\tatian\figure-01.jpg`
+
+- 缺失与问题：
+  - 前期境界（凝气至问鼎）均为动画已播出的 4K 臻彩/高燃剧照真实封面；
+  - 后期境界（阴虚阳实、窥涅、碎涅、空涅、踏天）素材来自官方剧场版预告及原著漫剪解析解说的真实高清原画素材。
+
+- 图片来源清单：
+  - 凝气期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1TEGo66EYp` (封面源: `http://i1.hdslb.com/bfs/archive/cb407b93bb6a8d597be7d9b187da98267e9f5c8c.jpg`)
+  - 凝气期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1BvgJ6jEFH` (封面源: `http://i2.hdslb.com/bfs/archive/9ac313ebdae0cccf5871e391c2e402427ffa951d.jpg`)
+  - 筑基期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1uZui6kEVb` (封面源: `http://i2.hdslb.com/bfs/archive/217b434b5e50e9819084f1929d855dbe76508192.jpg`)
+  - 筑基期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1JvV76JEnr` (封面源: `http://i1.hdslb.com/bfs/archive/f4823ca7869c4812cb9b2fef701c96b1dbab1c8b.jpg`)
+  - 结丹期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1TEGo66EYp` (封面源: `http://i1.hdslb.com/bfs/archive/cb407b93bb6a8d597be7d9b187da98267e9f5c8c.jpg`)
+  - 结丹期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1uZui6kEVb` (封面源: `http://i2.hdslb.com/bfs/archive/217b434b5e50e9819084f1929d855dbe76508192.jpg`)
+  - 元婴期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1NcsqeNEWi` (封面源: `http://i2.hdslb.com/bfs/archive/c171631e38b0fc93e5b486101c815c8873751a16.jpg`)
+  - 元婴期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1cuuZ6REDy` (封面源: `http://i1.hdslb.com/bfs/archive/68d05afa1bed8866a337f780678cbd8fdfc014d9.jpg`)
+  - 化神期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1ovP7e2EmT` (封面源: `http://i0.hdslb.com/bfs/archive/7a27798c25ef7d930de7228d2c3ce202569bc041.jpg`)
+  - 化神期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1gwN8zwE7g` (封面源: `http://i2.hdslb.com/bfs/archive/47f2237f5203a560792858f89f811d315c604f1a.jpg`)
+  - 婴变期 `bg-01.jpg` : `https://www.bilibili.com/video/BV15mdcBvEmU` (封面源: `http://i1.hdslb.com/bfs/archive/2bb9366b63696a2d138a814bde4cc9ced84e077b.jpg`)
+  - 婴变期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1moKKzFExZ` (封面源: `http://i1.hdslb.com/bfs/archive/025fd0b34caffcda0dc1042184bbf8b3171d0046.jpg`)
+  - 问鼎期 `bg-01.jpg` : `https://www.bilibili.com/video/BV1dzui69EB2` (封面源: `http://i0.hdslb.com/bfs/archive/c1a36fc7eb1727c5aad63de2ccb8ce9ca7f07534.jpg`)
+  - 问鼎期 `figure-01.jpg` : `https://www.bilibili.com/video/BV1c142zpEHa` (封面源: `http://i1.hdslb.com/bfs/archive/a509396bf476185518ae29e5c2d600971eadcef0.jpg`)
+  - 阴虚阳实 `bg-01.jpg` : `https://www.bilibili.com/video/BV14U4CzXEGJ` (封面源: `http://i1.hdslb.com/bfs/archive/6440c747014c2a3980c6674cfcde8aa7784be31b.jpg`)
+  - 阴虚阳实 `figure-01.jpg` : `https://www.bilibili.com/video/BV15tgo62EVX` (封面源: `http://i1.hdslb.com/bfs/archive/1058e8c3cf1b61df54d8402a6f52aca3472f05a4.jpg`)
+  - 窥涅净涅 `bg-01.jpg` : `https://www.bilibili.com/video/BV1Wi1MYnE7A` (封面源: `http://i0.hdslb.com/bfs/archive/7d35959c886bfe38e3f081e177c5e778ce684ba8.jpg`)
+  - 窥涅净涅 `figure-01.jpg` : `https://www.bilibili.com/video/BV13XQ8Y6EFE` (封面源: `http://i1.hdslb.com/bfs/archive/c7cdddd2d2b272d7bd1e73b7c4786d3ba57360f4.jpg`)
+  - 碎涅 `bg-01.jpg` : `https://www.bilibili.com/video/BV1LYNEz3EeV` (封面源: `http://i2.hdslb.com/bfs/archive/8c9cf890985f82a3a9d47c52e989298cdd7c4505.jpg`)
+  - 碎涅 `figure-01.jpg` : `https://www.bilibili.com/video/BV1jHK8zGEHJ` (封面源: `http://i1.hdslb.com/bfs/archive/5e1fb3ce931ed2744aec30c983644515c016ca8b.jpg`)
+  - 空涅四境 `bg-01.jpg` : `https://www.bilibili.com/video/BV12BXVBEEmM` (封面源: `http://i1.hdslb.com/bfs/archive/1f599ee3c4d987f7f54227066012facf03e30d7f.jpg`)
+  - 空涅四境 `figure-01.jpg` : `https://www.bilibili.com/video/BV18Fi2BiE1b` (封面源: `http://i0.hdslb.com/bfs/archive/4b9644a49d4528169c9c7ce7c27645907ecdc3b4.jpg`)
+  - 踏天九桥 `bg-01.jpg` : `https://www.bilibili.com/video/BV15mdcBvEmU` (封面源: `http://i1.hdslb.com/bfs/archive/2bb9366b63696a2d138a814bde4cc9ced84e077b.jpg`)
+  - 踏天九桥 `figure-01.jpg` : `https://www.bilibili.com/video/BV1en97B3Erw` (封面源: `http://i2.hdslb.com/bfs/archive/cdae5d8fa010b92f79468b99acc0578d43c24f22.jpg`)
+
+- 需要主管决策的事：
+  - 无需额外决策，全部 12 境界真实素材均已精准匹配并完成归档。

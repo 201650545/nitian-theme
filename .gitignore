@@ -1,0 +1,30 @@
+# ===== 资产红线：成品图/视频/压缩包一律不入库 =====
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.mp4
+*.webm
+*.zip
+*.7z
+*.rar
+*.psd
+*.glb
+*.log
+
+# ===== 隐私红线 =====
+memory-sync/
+
+# ===== 爬取缓存与临时产物 =====
+workers/collected/
+workers/collection_results.json
+workers/*.log
+
+# ===== 系统文件 =====
+.obsidian/
+__pycache__/
+Thumbs.db
+.DS_Store
+desktop.ini

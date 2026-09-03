@@ -1,0 +1,74 @@
+{
+  "ningqi": {
+    "name": "凝气期 (已播 1-15集)",
+    "bg_file": "collected/ningqi/bg-01.jpg",
+    "bg_res": "2160x1920",
+    "bg_url": "https://c-ssl.duitang.com/uploads/item/201511/22/20151122005556_nGHPV.jpeg",
+    "fig_file": "collected/ningqi/figure-01.jpg",
+    "fig_res": "551x796",
+    "fig_url": "https://x0.ifengimg.com/res/2020/BC68DAAD51CAE66A82B86DEE76F427F561EDC2FA_size180_w551_h796.jpeg"
+  },
+  "zhuji": {
+    "name": "筑基期 (已播 16-24集)",
+    "bg_file": "collected/zhuji/bg-01.jpg",
+    "bg_res": "1500x900",
+    "bg_url": "https://bkimg.cdn.bcebos.com/pic/9213b07eca8065386dd6693098dda144ad3482d1",
+    "fig_file": "collected/zhuji/figure-01.jpg",
+    "fig_res": "658x877",
+    "fig_url": "https://gd-hbimg.huaban.com/93ab532a437edb934f3cfb4cf5e88f5c4326313a3c217d-QZfiXl_fw658"
+  },
+  "jiedan": {
+    "name": "结丹期 (已播 25-42集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/jiedan/figure-01.jpg",
+    "fig_res": "640x892",
+    "fig_url": "https://x0.ifengimg.com/res/2020/3CB4DDF77C451F2534E4FFA825474047349D5C60_size93_w640_h892.jpeg"
+  },
+  "yuanying": {
+    "name": "元婴期 (已播 43-65集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/yuanying/figure-01.jpg",
+    "fig_res": "1024x1024",
+    "fig_url": "https://pic.ntimg.cn/file/20250415/35479210_170107869132_2.jpg"
+  },
+  "huashen": {
+    "name": "化神期 (已播 66-88集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/huashen/figure-01.jpg",
+    "fig_res": "1600x817",
+    "fig_url": "https://c-ssl.duitang.com/uploads/item/201901/18/20190118155741_Bt3iR.jpeg"
+  },
+  "yingbian": {
+    "name": "婴变期 (已播 89-120集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/yingbian/figure-01.jpg",
+    "fig_res": "658x1169",
+    "fig_url": "https://gd-hbimg.huaban.com/2d58f43427b702a9dfac74950b2ce1e3e293bf89328196-wZgLQ7_fw658"
+  },
+  "wending": {
+    "name": "问鼎期 (已播 121-140集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/wending/figure-01.jpg",
+    "fig_res": "658x876",
+    "fig_url": "https://gd-hbimg.huaban.com/0824c2a4b43c0f46b98dd26db503d27fdca5901324d9af-AZOjDC_fw658"
+  },
+  "yinyang": {
+    "name": "阴虚阳实 (已播 141-153集)",
+    "bg_file": null,
+    "bg_res": null,
+    "bg_url": null,
+    "fig_file": "collected/yinyang/figure-01.jpg",
+    "fig_res": "1000x1328",
+    "fig_url": "https://imgs.699pic.com/images/601/189/939.jpg!detail.v1"
+  }
+}

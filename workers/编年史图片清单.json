@@ -1,0 +1,169 @@
+{
+  "说明": "编年史配图映射 v2：6张真官方海报 + 21张即梦5.0官方形象锚定生成图（用户拍板官方没有就用已有形象生成）",
+  "生成": "workers/gen_chronicle_images.py + gen_chron_imgs_seedream.py 2026-08-27",
+  "served_base": "/nitian-assets",
+  "realms": {
+    "01_ningshi": {
+      "kind": "poster",
+      "src": "/officials/ningqi/wanglin_shaonian_ningqi.jpg",
+      "credit": "官方海报",
+      "digest": "得珠传道，极境斩藤，誓灭藤族"
+    },
+    "02_zhuji": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/02_zhuji.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "毁躯夺舍极境识，火焚初遇护婉基"
+    },
+    "03_jiedan": {
+      "kind": "poster",
+      "src": "/officials/jiedan/wanglin_xiumohai_jiedan.jpg",
+      "credit": "官方海报 · 修魔海",
+      "digest": "三寒合一凝极丹，碎星护婉杀伐决"
+    },
+    "04_yuanying": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/04_yuanying.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "古神承魂，百万人头镇白发"
+    },
+    "05_huashen": {
+      "kind": "poster",
+      "src": "/officials/huashen/wanglin_baifa_huashen.jpg",
+      "credit": "官方海报",
+      "digest": "青衫木雕悟生死，雨战红蝶救周佚"
+    },
+    "06_yingbian": {
+      "kind": "poster",
+      "src": "/officials/yingbian/wanglin_ziyi_yingbian.jpg",
+      "credit": "官方海报",
+      "digest": "仙躯初成，司徒复生，朱雀冠冕，紫袍"
+    },
+    "07_wending": {
+      "kind": "poster",
+      "src": "/officials/wending/wanglin_heihong_wending.jpg",
+      "credit": "官方海报",
+      "digest": "古妖炼煞抗天劫，问鼎玄袍雷霆"
+    },
+    "08_yinyang": {
+      "kind": "poster",
+      "src": "/officials/yangshi/wanglin_lanbai_yangshi.jpg",
+      "credit": "官方海报",
+      "digest": "掌雷鼎会清水，破阳实凝六星"
+    },
+    "09_kunie": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/09_kunie.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "万魂碎骨金身窥天道"
+    },
+    "10_jingnie": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/10_jingnie.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "涅槃洗尘悟轮回，法目破空察虚妄"
+    },
+    "11_suinie": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/11_suinie.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "碎涅证道肉身抗天运大因果逆转"
+    },
+    "12_kongnie": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/12_kongnie.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "星云缠身香火易仙玉"
+    },
+    "13_kongling": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/13_kongling.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "灵蝶虚影绕月渐悟空意"
+    },
+    "14_kongxuan": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/14_kongxuan.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "玄冰演道败雷仙名扬星域"
+    },
+    "15_kongjin": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/15_kongjin.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "空劫金尊，劫云天眼，金之极道"
+    },
+    "16_kongzun": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/16_kongzun.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "空劫中尊，令镇一方"
+    },
+    "17_kongyue": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/17_kongyue.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "空劫跃天尊，超脱寻常天道"
+    },
+    "18_kongda": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/18_kongda.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "极境神识冠绝，空劫独尊"
+    },
+    "19_qiao1": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/19_qiao1.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏天一桥战运子，定界罗盘愿为币"
+    },
+    "20_qiao2": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/20_qiao2.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏天二桥破轮回，天道化身哀嚎散"
+    },
+    "21_qiao3": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/21_qiao3.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏天三桥斩道果，轮回镇天道"
+    },
+    "22_qiao4": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/22_qiao4.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏天四桥始古山前挥袖计都承尊"
+    },
+    "23_qiao5": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/23_qiao5.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "五桥问心三身合一窥见道门"
+    },
+    "24_qiao6": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/24_qiao6.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "六桥幻影破妄存真，古道跨越"
+    },
+    "25_qiao7": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/25_qiao7.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "七桥战天运，拳碎天道影"
+    },
+    "26_qiao8": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/26_qiao8.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏天八桥，因果逆转，一剑斩天道"
+    },
+    "27_qiao9": {
+      "kind": "gen",
+      "src": "/ui/chronicle-img/gen/27_qiao9.png",
+      "credit": "即梦5.0 · 官方形象锚定",
+      "digest": "踏碎九桥天运陨，因果花落彼岸望"
+    }
+  }
+}

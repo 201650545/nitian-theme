@@ -1,0 +1,191 @@
+{
+ "04_yuanying": {
+  "out": "bt_m.mp4",
+  "tier": "MAJOR",
+  "state": "done",
+  "bytes": 1917417,
+  "tid": "task_IlOkL2yO1EY3PgnmIpbjjsx6DWvECQg4"
+ },
+ "01_ningshi": {
+  "out": "bt_01_ningshi.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1906558,
+  "tid": "task_EptsUG1Y1fk3v5iv8lh7ANEQH1jqeB9W"
+ },
+ "02_zhuji": {
+  "out": "bt_02_zhuji.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1669253,
+  "tid": "task_RESAKkEPitdjy0ROxV9GIUGjpU2oJiC3"
+ },
+ "03_jiedan": {
+  "out": "bt_03_jiedan.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1373495,
+  "tid": "task_cOcpZNh7MyL9cjc3peQyCHUDg0qkdTYg"
+ },
+ "05_huashen": {
+  "out": "bt_05_huashen.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1344593,
+  "tid": "task_H3AE6f4qSLdcqKfUzEwulaU2dXd48gNd"
+ },
+ "06_yingbian": {
+  "out": "bt_06_yingbian.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1151660,
+  "tid": "task_82yLFQ4JFL2jCeZ5936ZcdIEoBW5kqM0"
+ },
+ "07_wending": {
+  "out": "bt_b.mp4",
+  "tier": "MAJOR",
+  "state": "done",
+  "bytes": 2045062,
+  "tid": "task_MMdncMXXbUvih8inykeNpIHmcekszQDi"
+ },
+ "08_yinyang": {
+  "out": "bt_08_yinyang.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1297660,
+  "tid": "task_uwbEGWi21TkTJIAhizgnHStjTwTBfuMY"
+ },
+ "09_kunie": {
+  "out": "bt_09_kunie.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1662572,
+  "tid": "task_q06OoPQgltf6h80394CaThGj5ufxbBpE"
+ },
+ "10_jingnie": {
+  "out": "bt_10_jingnie.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1426613,
+  "tid": "task_buZUdCalQbLSatJ1tbMLOhQSzMp8dGj3"
+ },
+ "11_suinie": {
+  "out": "bt_t.mp4",
+  "tier": "MAJOR",
+  "state": "done",
+  "bytes": 2238617,
+  "tid": "task_76whtONP3eXNjVy5O1XnsQl6x369NLos"
+ },
+ "12_kongnie": {
+  "out": "bt_12_kongnie.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1371328,
+  "tid": "task_eqzHAU6JuaICrFLMCBvmVbCE2QuFq0iu"
+ },
+ "13_kongling": {
+  "out": "bt_13_kongling.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1535040,
+  "tid": "task_ZPqwVos0RC2HzTHl1DrQHaDQsveiHhDM"
+ },
+ "14_kongxuan": {
+  "out": "bt_14_kongxuan.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1259320,
+  "tid": "task_WJCNP4IEkGi9avqvFeVfxxCDGKJq4IIq"
+ },
+ "15_kongjin": {
+  "out": "bt_15_kongjin.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1522723,
+  "tid": "task_gY6mr8TTP1bsNXWF3q3V03VcMfY2Cpdt"
+ },
+ "16_kongzun": {
+  "out": "bt_16_kongzun.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 2002982,
+  "tid": "task_hBLLlySLHP0wa0n5GTdpcul4Ps4fOfb9"
+ },
+ "17_kongyue": {
+  "out": "bt_17_kongyue.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1546295,
+  "tid": "task_cnA9Sm8FQCmrKg0791AyXiWjAC3LZ7Us"
+ },
+ "18_kongda": {
+  "out": "bt_18_kongda.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1956288,
+  "tid": "task_ezWOO62A20i78uomXItbCwzErXFypxs5"
+ },
+ "19_qiao1": {
+  "out": "bt_p.mp4",
+  "tier": "MAJOR",
+  "state": "done",
+  "bytes": 2202304,
+  "tid": "task_ALMfkFO0laCjKqwmW1HnB1syuitiCy22"
+ },
+ "20_qiao2": {
+  "out": "bt_20_qiao2.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1919554,
+  "tid": "task_hYyknMX15yQEP5CB7jK5q7D2uIjb9gb0"
+ },
+ "21_qiao3": {
+  "out": "bt_21_qiao3.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1738825,
+  "tid": "task_iGjZriDGNY7UipQMqeTVy6o8wXiyyvbw"
+ },
+ "22_qiao4": {
+  "out": "bt_22_qiao4.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1694604,
+  "tid": "task_MxBXCInbZ07GsF1XVZWSwZeumVU0vzdg"
+ },
+ "23_qiao5": {
+  "out": "bt_23_qiao5.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1721416,
+  "tid": "task_MgZDK1MD85XFSkw9nR0LyImXqO31CHL8"
+ },
+ "24_qiao6": {
+  "out": "bt_24_qiao6.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1755963,
+  "tid": "task_Z4LZwwTq9nkJXJRGtCe40mRM2FYlFuwL"
+ },
+ "25_qiao7": {
+  "out": "bt_25_qiao7.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1468441,
+  "tid": "task_wTk6XHojWqdjKPQ9fwrzUYWDNoTGGgrF"
+ },
+ "26_qiao8": {
+  "out": "bt_26_qiao8.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1703789,
+  "tid": "task_izbRj5LFQgYREm34sN9egipSvaPb0DRH"
+ },
+ "27_qiao9": {
+  "out": "bt_27_qiao9.mp4",
+  "tier": "MINOR",
+  "state": "done",
+  "bytes": 1753798,
+  "tid": "task_GKWmxkU2v4G2XaLDeSi11Q0N35z5KIhq"
+ }
+}

@@ -1,0 +1,17 @@
+id: nitian-theme
+name: 逆天主题（仙逆）游戏
+type: game
+status: active
+visibility: public
+
+sources:
+  overview: docs/00-项目总览.md
+  tasks: docs/01-任务看板.md
+  assets: docs/02-资产清单.md
+  spec: docs/03-规格与规范.md
+
+handbook:
+  version: v1.0
+  overrides: docs/03-规格与规范.md
+
+updated_at: 2026-09-03

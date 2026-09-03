@@ -1,0 +1,106 @@
+[
+  {
+    "folder": "posters_season_general",
+    "filename": "poster_season_all_01.jpg",
+    "desc": "仙逆 第一季 官方主海报 (凝气筑基篇)",
+    "resolution": "1080x1573",
+    "size_kb": 303,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2896563963.jpg"
+  },
+  {
+    "folder": "posters_season_general",
+    "filename": "poster_season_nianfan2_01.jpg",
+    "desc": "仙逆 年番二 官方主海报 (化神婴变篇)",
+    "resolution": "1080x1920",
+    "size_kb": 256,
+    "url": "https://img1.doubanio.com/view/photo/l/public/p2926462310.jpg"
+  },
+  {
+    "folder": "posters_season_general",
+    "filename": "poster_season_nianfan3_01.jpg",
+    "desc": "仙逆 年番三 官方主海报 (问鼎罗天篇)",
+    "resolution": "1080x1920",
+    "size_kb": 1419,
+    "url": "https://img2.doubanio.com/view/photo/l/public/p2934641141.jpg"
+  },
+  {
+    "folder": "posters_season_general",
+    "filename": "poster_season_movie1_01.jpg",
+    "desc": "仙逆剧场版《神临之战》官方主海报",
+    "resolution": "1080x1514",
+    "size_kb": 190,
+    "url": "https://img1.doubanio.com/view/photo/l/public/p2922017818.jpg"
+  },
+  {
+    "folder": "posters_season_general",
+    "filename": "poster_season_movie2_01.jpg",
+    "desc": "仙逆剧场版《弑仙之战》官方主海报",
+    "resolution": "1080x1514",
+    "size_kb": 247,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2933466382.jpg"
+  },
+  {
+    "folder": "wanglin_character",
+    "filename": "wanglin_char_official_01.jpg",
+    "desc": "王林 官方白发角色海报",
+    "resolution": "1080x1514",
+    "size_kb": 190,
+    "url": "https://img1.doubanio.com/view/photo/l/public/p2922017818.jpg"
+  },
+  {
+    "folder": "ningqi",
+    "filename": "ningqi_poster_01.jpg",
+    "desc": "凝气期 恒岳派少年王林官方海报",
+    "resolution": "1080x1573",
+    "size_kb": 303,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2896563963.jpg"
+  },
+  {
+    "folder": "zhuji",
+    "filename": "zhuji_poster_01.jpg",
+    "desc": "筑基期 极境初成官方海报",
+    "resolution": "1080x1573",
+    "size_kb": 303,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2896563963.jpg"
+  },
+  {
+    "folder": "yuanying",
+    "filename": "yuanying_poster_01.jpg",
+    "desc": "元婴期 古神之地/神临之战官方海报",
+    "resolution": "1080x1514",
+    "size_kb": 190,
+    "url": "https://img1.doubanio.com/view/photo/l/public/p2922017818.jpg"
+  },
+  {
+    "folder": "huashen",
+    "filename": "huashen_poster_01.jpg",
+    "desc": "化神期 年番二主视觉官方海报",
+    "resolution": "1080x1920",
+    "size_kb": 256,
+    "url": "https://img1.doubanio.com/view/photo/l/public/p2926462310.jpg"
+  },
+  {
+    "folder": "yingbian",
+    "filename": "yingbian_poster_01.jpg",
+    "desc": "婴变期 弑仙之战官方海报",
+    "resolution": "1080x1514",
+    "size_kb": 247,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2933466382.jpg"
+  },
+  {
+    "folder": "wending",
+    "filename": "wending_poster_01.jpg",
+    "desc": "问鼎期 年番三官方海报",
+    "resolution": "1080x1920",
+    "size_kb": 1419,
+    "url": "https://img2.doubanio.com/view/photo/l/public/p2934641141.jpg"
+  },
+  {
+    "folder": "yinyang",
+    "filename": "yinyang_poster_01.jpg",
+    "desc": "阴虚阳实 罗天星域官方海报",
+    "resolution": "1080x1920",
+    "size_kb": 1419,
+    "url": "https://img2.doubanio.com/view/photo/l/public/p2934641141.jpg"
+  }
+]
