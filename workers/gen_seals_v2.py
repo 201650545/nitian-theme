@@ -11,7 +11,7 @@ from PIL import Image
 ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="utf-8-sig"))
 GW_KEY = ST["api_key"]
 URL = "http://127.0.0.1:3100/v1/images/generations"
-OUT = Path(r"D:\游戏\逆天主题\assets\ui\seals")
+OUT = Path(r"D:\逆天主题\assets\ui\seals")
 
 STYLE = "仙侠风境界徽章图标，圆形玉印构图，对称庄重，描线精致，宝石质感，纯深色背景居中，游戏UI图标，无文字"
 SEALS = [

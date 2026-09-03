@@ -35,7 +35,7 @@ for kw in KEYWORDS:
     print(f"  Found {len(notes)} notes")
     all_results[kw] = notes[:5] # save top 5 notes for each
 
-with open(r'D:\游戏\逆天主题\workers\xiaohongshu_search_results.json', 'w', encoding='utf-8') as f:
+with open(r'D:\逆天主题\workers\xiaohongshu_search_results.json', 'w', encoding='utf-8') as f:
     json.dump(all_results, f, ensure_ascii=False, indent=2)
 
 print("\nXiaohongshu search finished successfully!")

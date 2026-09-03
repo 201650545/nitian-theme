@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
-ROOT = Path(r"D:\游戏\逆天主题\workers")
+ROOT = Path(r"D:\逆天主题\workers")
 OUT = ROOT / "编年史彩蛋.json"
 ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="utf-8-sig"))
 GW_KEY = ST["api_key"]

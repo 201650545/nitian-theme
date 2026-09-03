@@ -3,7 +3,7 @@
 import json, sys
 sys.stdout.reconfigure(encoding="utf-8")
 
-d = json.load(open(r"D:\游戏\逆天主题\assets\ui\chronicle.json", encoding="utf-8"))
+d = json.load(open(r"D:\逆天主题\assets\ui\chronicle.json", encoding="utf-8"))
 realms = d["realms"]
 
 NAME = {
@@ -66,7 +66,7 @@ records += [
 ]
 
 out = {"create_records": records}
-json.dump(out, open(r"D:\游戏\逆天主题\workers\xn_seed_batch.json", "w", encoding="utf-8"), ensure_ascii=False)
+json.dump(out, open(r"D:\逆天主题\workers\xn_seed_batch.json", "w", encoding="utf-8"), ensure_ascii=False)
 print("records:", len(records))
 
 fields = [
@@ -89,5 +89,5 @@ fields = [
         {"name": "待整理", "hue": "Orange"}, {"name": "已整理", "hue": "Blue"}, {"name": "已应用", "hue": "Green"}]},
     {"type": "text", "name": "备注"},
 ]
-json.dump(fields, open(r"D:\游戏\逆天主题\workers\xn_fields.json", "w", encoding="utf-8"), ensure_ascii=False)
+json.dump(fields, open(r"D:\逆天主题\workers\xn_fields.json", "w", encoding="utf-8"), ensure_ascii=False)
 print("fields:", len(fields))

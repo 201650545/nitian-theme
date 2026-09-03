@@ -23,7 +23,7 @@ ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="u
 GW_KEY = ST["api_key"]
 URL = "http://127.0.0.1:3100/v1/images/generations"
 
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 OUT_DIR = ROOT / "assets" / "ui" / "bgs"
 MODEL = "doubao-seedream-5-0-260128"  # 背景（沿用 gen_gap_assets 成功模型）
 

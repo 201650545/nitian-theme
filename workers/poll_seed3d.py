@@ -11,10 +11,10 @@ sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 key = d["keys"]["ark"]
 JOBS = {
-    "nianfan2": open(r"D:\游戏\逆天主题\workers\seed3d_nianfan2.txt").read().strip(),
-    "movie1": open(r"D:\游戏\逆天主题\workers\seed3d_movie1.txt").read().strip(),
+    "nianfan2": open(r"D:\逆天主题\workers\seed3d_nianfan2.txt").read().strip(),
+    "movie1": open(r"D:\逆天主题\workers\seed3d_movie1.txt").read().strip(),
 }
-OUT = r"D:\游戏\逆天主题\assets\ui\models"
+OUT = r"D:\逆天主题\assets\ui\models"
 
 
 def poll(tid):

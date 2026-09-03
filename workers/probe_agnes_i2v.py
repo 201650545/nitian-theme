@@ -11,7 +11,7 @@ key = d["keys"]["agnes"]
 BASE = "https://apihub.agnes-ai.com/v1"
 
 # 官方弑战王林海报（近脸大头）做首帧
-img = base64.b64encode(open(r"D:\游戏\逆天主题\workers\officials\posters_season_general\poster_season_movie2_01.jpg", "rb").read()).decode()
+img = base64.b64encode(open(r"D:\逆天主题\workers\officials\posters_season_general\poster_season_movie2_01.jpg", "rb").read()).decode()
 dataurl = "data:image/jpeg;base64," + img
 
 probes = [

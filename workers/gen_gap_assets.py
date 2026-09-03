@@ -23,7 +23,7 @@ ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="u
 GW_KEY = ST["api_key"]
 URL = "http://127.0.0.1:3100/v1/images/generations"
 
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 MODEL_S5 = "doubao-seedream-5-0-260128"   # 立绘/背景/心魔（沿用 gen_chron_imgs 成功模型）
 MODEL_S45 = "doubao-seedream-4-5-251128"  # 印章（沿用 gen_seals_v2 风格一致）
 

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import json
-with open(r'D:\游戏\逆天主题\workers\T2-编年史底稿.json', encoding='utf-8') as f:
+with open(r'D:\逆天主题\workers\T2-编年史底稿.json', encoding='utf-8') as f:
     data = json.load(f)
 
 for key in ['events', 'breakthroughs', 'arts', 'scenes', 'quotes']:

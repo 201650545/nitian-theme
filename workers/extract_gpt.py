@@ -22,7 +22,7 @@ except Exception as e:
     # 尝试截到最后一个完整 } 处
     data = None
 
-out = Path(r"D:\游戏\逆天主题\workers\gpt_extend_eggs.json")
+out = Path(r"D:\逆天主题\workers\gpt_extend_eggs.json")
 if data:
     # 归一化：可能顶层就是按境界的 dict
     realms = data.get("realms", data)

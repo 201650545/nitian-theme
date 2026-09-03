@@ -16,7 +16,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 key = d["keys"]["agnes"]
 BASE = "https://apihub.agnes-ai.com/v1"
-OUT = r"D:\游戏\逆天主题\assets\animations"
+OUT = r"D:\逆天主题\assets\animations"
 PROXY = "http://127.0.0.1:7890"
 urllib.request.install_opener(
     urllib.request.build_opener(urllib.request.ProxyHandler({"http": PROXY, "https": PROXY})))

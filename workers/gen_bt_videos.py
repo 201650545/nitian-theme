@@ -10,7 +10,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 key = d["keys"]["agnes"]
 BASE = "https://apihub.agnes-ai.com/v1"
-OUT = r"D:\游戏\逆天主题\assets\animations"
+OUT = r"D:\逆天主题\assets\animations"
 
 JOBS = {
     "bt_m": "元婴·罗天星域破境：青衫修士盘坐星海虚空，星蓝灵气漩涡汇聚，金色爆裂冲天，古神星纹法印浮现，星蓝鎏金调，史诗",

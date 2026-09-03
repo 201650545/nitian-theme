@@ -5,9 +5,9 @@ import sys
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
-CHRON = Path(r"D:\游戏\逆天主题\workers\编年史彩蛋.json")
-GPT = Path(r"D:\游戏\逆天主题\workers\gpt_extend_eggs.json")
-DEPLOY = Path(r"D:\游戏\逆天主题\assets\ui\chronicle.json")
+CHRON = Path(r"D:\逆天主题\workers\编年史彩蛋.json")
+GPT = Path(r"D:\逆天主题\workers\gpt_extend_eggs.json")
+DEPLOY = Path(r"D:\逆天主题\assets\ui\chronicle.json")
 
 chron = json.loads(CHRON.read_text(encoding="utf-8"))
 gpt = json.loads(GPT.read_text(encoding="utf-8"))

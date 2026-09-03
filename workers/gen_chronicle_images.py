@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 UI = ROOT / "assets" / "ui"
 OFFICIALS = ROOT / "workers" / "officials"
 OUT_DIR = UI / "chronicle-img"

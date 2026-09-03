@@ -15,7 +15,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 KEY = d["keys"]["ark"]
 BASE = "https://ark.cn-beijing.volces.com/api/v3/contents/generations/tasks"
-OUT = Path(r"D:\游戏\逆天主题\assets\animations")
+OUT = Path(r"D:\逆天主题\assets\animations")
 
 CANDIDATES = [
     "doubao-seedance-1-5-pro",

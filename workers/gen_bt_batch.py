@@ -33,8 +33,8 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 BASE = "https://apihub.agnes-ai.com/v1"
 MODEL = "agnes-video-2.5-flash"
-OUT_DIR = r"D:\游戏\逆天主题\assets\animations"
-CHRONICLE = r"D:\游戏\逆天主题\assets\ui\chronicle.json"
+OUT_DIR = r"D:\逆天主题\assets\animations"
+CHRONICLE = r"D:\逆天主题\assets\ui\chronicle.json"
 KEYS_FILE = r"D:\项目\data\search_gateway\channels.json"
 STATUS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bt_batch_status.json")
 

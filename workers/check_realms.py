@@ -4,7 +4,7 @@ import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
-c = open(r"D:\游戏\逆天主题\dsh-plugin\pkg\lib\client.js", encoding="utf-8").read()
+c = open(r"D:\逆天主题\dsh-plugin\pkg\lib\client.js", encoding="utf-8").read()
 i = c.find('R("15_kongjie"')
 print("--- 15_kongjie 行 ---")
 print(c[i:i + 340])

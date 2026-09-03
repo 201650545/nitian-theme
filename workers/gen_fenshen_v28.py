@@ -20,7 +20,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 GW_KEY = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="utf-8-sig"))["api_key"]
 CH = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 KEYS = CH.get("keys") or {}
-OUT_DIR = Path(r"D:\游戏\逆天主题\assets\ui\chars")
+OUT_DIR = Path(r"D:\逆天主题\assets\ui\chars")
 
 BASE = (
     "腾讯仙逆动画官方画风，2D动漫风格，修仙角色立绘，"

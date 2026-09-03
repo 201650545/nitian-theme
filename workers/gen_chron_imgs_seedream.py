@@ -16,7 +16,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="utf-8-sig"))
 URL = "http://127.0.0.1:3100/v1/images/generations"
-OUT = Path(r"D:\游戏\逆天主题\assets\ui\chronicle-img\gen")
+OUT = Path(r"D:\逆天主题\assets\ui\chronicle-img\gen")
 MODEL = "doubao-seedream-5-0-260128"
 
 TAIL = "腾讯仙逆动画官方画风，2D动漫风格，竖版海报构图，人物半身居中偏下，背景场景分明，冷色调体积光，史诗电影感，发丝衣袍细节丰富，无文字无水印无边框"

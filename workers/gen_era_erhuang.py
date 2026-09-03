@@ -13,8 +13,8 @@ from PIL import Image
 
 ST = json.load(open(r"D:\项目\data\search_gateway\api_state.json", encoding="utf-8-sig"))
 GW_KEY = ST["api_key"]
-P = Path(r"D:\游戏\逆天主题\workers\officials\posters_season_general")
-OUT = Path(r"D:\游戏\逆天主题\assets\ui\chars")
+P = Path(r"D:\逆天主题\workers\officials\posters_season_general")
+OUT = Path(r"D:\逆天主题\assets\ui\chars")
 URL = "http://127.0.0.1:3100/v1/images/generations"
 MODEL = "doubao-seedream-4-5-251128"
 

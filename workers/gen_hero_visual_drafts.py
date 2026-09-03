@@ -13,7 +13,7 @@ from pathlib import Path
 from PIL import Image
 
 KEYS_PATH = Path(r"D:\项目\data\search_gateway\channels.json")
-OUT_ROOT = Path(r"D:\游戏\逆天主题\assets\realms")
+OUT_ROOT = Path(r"D:\逆天主题\assets\realms")
 MODEL = "sensenova-u1.5-lite"
 URL = "https://token.sensenova.cn/v1/images/generations"
 

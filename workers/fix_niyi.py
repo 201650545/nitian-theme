@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 
-PATH = r'D:\游戏\逆天主题\workers\T2-编年史底稿.json'
+PATH = r'D:\逆天主题\workers\T2-编年史底稿.json'
 with open(PATH, encoding='utf-8') as f:
     data = json.load(f)
 

@@ -5,10 +5,10 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 targets = [
-    r"D:\游戏\逆天主题\dsh-plugin\pkg\lib\client.js",
-    r"D:\游戏\逆天主题\workers\编年史彩蛋.json",
-    r"D:\游戏\逆天主题\assets\ui\chronicle.json",
-    r"D:\游戏\逆天主题\workers\gpt_extend_eggs.json",
+    r"D:\逆天主题\dsh-plugin\pkg\lib\client.js",
+    r"D:\逆天主题\workers\编年史彩蛋.json",
+    r"D:\逆天主题\assets\ui\chronicle.json",
+    r"D:\逆天主题\workers\gpt_extend_eggs.json",
 ]
 for t in targets:
     p = Path(t)

@@ -4,7 +4,7 @@ import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
-c = open(r"D:\游戏\逆天主题\dsh-plugin\pkg\lib\client.js", encoding="utf-8").read()
+c = open(r"D:\逆天主题\dsh-plugin\pkg\lib\client.js", encoding="utf-8").read()
 
 # 统计 R("xx 定义
 ids = re.findall(r'R\("(\d+_\w+)"', c)

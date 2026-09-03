@@ -9,8 +9,8 @@ import urllib.request
 sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 key = d["keys"]["ark"]
-tid = open(r"D:\游戏\逆天主题\workers\seedance_task.txt").read().strip()
-OUT = r"D:\游戏\逆天主题\assets\animations"
+tid = open(r"D:\逆天主题\workers\seedance_task.txt").read().strip()
+OUT = r"D:\逆天主题\assets\animations"
 
 for i in range(60):
     req = urllib.request.Request("https://ark.cn-beijing.volces.com/api/v3/contents/generations/tasks/" + tid, headers={"Authorization": "Bearer " + key})

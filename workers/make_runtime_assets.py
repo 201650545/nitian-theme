@@ -11,7 +11,7 @@ from pathlib import Path
 from PIL import Image
 from rembg import remove, new_session
 
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 ASSETS = ROOT / "assets"
 W, H = Image.open(ROOT / "workers/officials/posters_season_general/poster_season_all_01.jpg").size[:2] if False else (0, 0)
 

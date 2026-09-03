@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
-f = Path(r"D:\游戏\逆天主题\dsh-plugin\pkg\lib\client.js")
+f = Path(r"D:\逆天主题\dsh-plugin\pkg\lib\client.js")
 c = f.read_text(encoding="utf-8")
 
 # 在 .bt.playvid 规则后追加：印章/法印下移缩小子不遮脸；判词下移

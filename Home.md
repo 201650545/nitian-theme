@@ -19,7 +19,7 @@
 
 | 仓 | 本地 | GitHub | 用途 |
 |---|---|---|---|
-| nitian-theme | `D:\游戏\逆天主题`（本 vault） | github.com/201650545/nitian-theme | 项目事实 + 代码 |
+| nitian-theme | `D:\逆天主题`（本 vault） | github.com/201650545/nitian-theme | 项目事实 + 代码 |
 | handbook | `D:\handbook`（独立 vault） | github.com/201650545/handbook | 通用规范 v1.0 + 模板 |
 | workspace-index | `D:\workspace-index`（独立 vault） | github.com/201650545/workspace-index | AI 统一入口：项目注册表 + 状态快照 |
 

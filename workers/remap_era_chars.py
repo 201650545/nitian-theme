@@ -5,7 +5,7 @@ import sys
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
-f = Path(r"D:\游戏\逆天主题\dsh-plugin\pkg\lib\client.js")
+f = Path(r"D:\逆天主题\dsh-plugin\pkg\lib\client.js")
 c = f.read_text(encoding="utf-8")
 
 # 1) 重写 CH 常量块

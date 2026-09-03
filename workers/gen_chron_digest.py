@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 KEYS_PATH = Path(r"D:\项目\data\search_gateway\channels.json")
 OUT_DIR = ROOT / "assets" / "ui" / "chronicle-img"
 CHRON_PATH = ROOT / "assets" / "ui" / "chronicle.json"

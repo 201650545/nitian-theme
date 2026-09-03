@@ -8,7 +8,7 @@ import urllib.request
 sys.stdout.reconfigure(encoding="utf-8")
 d = json.load(open(r"D:\项目\data\search_gateway\channels.json", encoding="utf-8-sig"))
 key = d["keys"]["ark"]
-img = base64.b64encode(open(r"D:\游戏\逆天主题\workers\officials\posters_season_general\poster_season_movie2_01.jpg", "rb").read()).decode()
+img = base64.b64encode(open(r"D:\逆天主题\workers\officials\posters_season_general\poster_season_movie2_01.jpg", "rb").read()).decode()
 dataurl = "data:image/jpeg;base64," + img
 
 body = {
@@ -26,6 +26,6 @@ try:
                                  data=json.dumps(body).encode(), headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"}, method="POST")
     r = json.loads(urllib.request.urlopen(req, timeout=60).read())
     print("OK", r.get("id"))
-    open(r"D:\游戏\逆天主题\workers\seedance_task.txt", "w").write(r.get("id", ""))
+    open(r"D:\逆天主题\workers\seedance_task.txt", "w").write(r.get("id", ""))
 except urllib.error.HTTPError as e:
     print("HTTP", e.code, e.read().decode("utf-8", "ignore")[:220])

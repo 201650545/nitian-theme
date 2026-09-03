@@ -34,7 +34,7 @@ for end in range(len(t), start, -200):
 
 if best:
     seg, data = best
-    out = Path(r"D:\游戏\逆天主题\workers\gpt_extend_eggs.json")
+    out = Path(r"D:\逆天主题\workers\gpt_extend_eggs.json")
     out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     realms = data.get("realms", data)
     if isinstance(realms, dict):

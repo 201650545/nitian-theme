@@ -8,7 +8,7 @@
 
 ## 工作范围
 
-只允许在 `D:\游戏\逆天主题\` 文件夹内读写，不要碰其他任何目录。
+只允许在 `D:\逆天主题\` 文件夹内读写，不要碰其他任何目录。
 
 ## 任务一：境界场景考证
 
@@ -20,7 +20,7 @@
 3. visual 是给美术找图用的画面描述，要具体（环境+人物+氛围）
 4. 全部中文
 
-产出写入：`D:\游戏\逆天主题\workers\T1-境界考证.json`
+产出写入：`D:\逆天主题\workers\T1-境界考证.json`
 
 JSON 结构（id 必须用下面给定的）：
 ```json
@@ -44,16 +44,16 @@ ningqi 凝气期(15层) | zhuji 筑基期 | jiedan 结丹期 | yuanying 元婴�
 
 存储位置（按境界 id 建文件夹，命名固定）：
 ```
-D:\游戏\逆天主题\workers\collected\ningqi\bg-01.jpg
-D:\游戏\逆天主题\workers\collected\ningqi\figure-01.jpg
-D:\游戏\逆天主题\workers\collected\zhuji\bg-01.jpg
+D:\逆天主题\workers\collected\ningqi\bg-01.jpg
+D:\逆天主题\workers\collected\ningqi\figure-01.jpg
+D:\逆天主题\workers\collected\zhuji\bg-01.jpg
 ...（以此类推）
 ```
 图片下载不了就只记录来源 URL，写进汇报。
 
 ## 任务三：写完成汇报（必做，最后一步）
 
-写入：`D:\游戏\逆天主题\workers\汇报-Gemini.md`
+写入：`D:\逆天主题\workers\汇报-Gemini.md`
 
 格式：
 ```markdown

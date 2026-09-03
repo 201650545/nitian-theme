@@ -3,31 +3,31 @@
 - 完成时间：2026-08-15
 - 状态：完成（已通过 OpenCLI 联动当前浏览器会话，全量检索国内 B 站等平台，完成 12 个境界共 24 张真实素材的收集与归档）
 - 产出文件清单：
-  - `D:\游戏\逆天主题\workers\T1-境界考证.json`
-  - `D:\游戏\逆天主题\workers\collected\ningqi\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\ningqi\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\zhuji\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\zhuji\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\jiedan\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\jiedan\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yuanying\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yuanying\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\huashen\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\huashen\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yingbian\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yingbian\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\wending\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\wending\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yinyang\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\yinyang\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\nie\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\nie\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\suinie\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\suinie\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\kongnie\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\kongnie\figure-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\tatian\bg-01.jpg`
-  - `D:\游戏\逆天主题\workers\collected\tatian\figure-01.jpg`
+  - `D:\逆天主题\workers\T1-境界考证.json`
+  - `D:\逆天主题\workers\collected\ningqi\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\ningqi\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\zhuji\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\zhuji\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\jiedan\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\jiedan\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\yuanying\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\yuanying\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\huashen\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\huashen\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\yingbian\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\yingbian\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\wending\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\wending\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\yinyang\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\yinyang\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\nie\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\nie\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\suinie\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\suinie\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\kongnie\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\kongnie\figure-01.jpg`
+  - `D:\逆天主题\workers\collected\tatian\bg-01.jpg`
+  - `D:\逆天主题\workers\collected\tatian\figure-01.jpg`
 
 - 缺失与问题：
   - 前期境界（凝气至问鼎）均为动画已播出的 4K 臻彩/高燃剧照真实封面；

@@ -11,7 +11,7 @@ from pathlib import Path
 from PIL import Image
 
 KEYS_PATH = Path(r"D:\项目\data\search_gateway\channels.json")
-ROOT = Path(r"D:\游戏\逆天主题")
+ROOT = Path(r"D:\逆天主题")
 URL = "https://token.sensenova.cn/v1/images/generations"
 
 STYLE = "动漫CG，官方仙逆画风，暗色调，细节丰富，无文字"
