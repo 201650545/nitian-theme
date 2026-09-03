@@ -19,9 +19,11 @@
 
 | 仓 | 本地 | GitHub | 用途 |
 |---|---|---|---|
-| 逆天主题 | `D:\逆天主题`（本 vault） | github.com/201650545/逆天主题 | 项目事实 + 代码 |
-| 通用规范 | `D:\通用规范`（独立 vault） | github.com/201650545/通用规范 | 通用规范 v1.0 + 模板 |
-| 项目索引 | `D:\项目索引`（独立 vault） | github.com/201650545/项目索引 | AI 统一入口：项目注册表 + 状态快照 |
+| 逆天主题 | `D:\逆天主题`（本 vault） | [nitian-theme](https://github.com/201650545/nitian-theme) | 项目事实 + 代码 |
+| 通用规范 | `D:\通用规范`（独立 vault） | [handbook](https://github.com/201650545/handbook) | 通用规范 v1.0 + 模板 |
+| 项目索引 | `D:\项目索引`（独立 vault） | [workspace-index](https://github.com/201650545/workspace-index) | AI 统一入口：项目注册表 + 状态快照 |
+
+> 注：GitHub 仓名（URL）不支持中文（中文会被自动替换成 `-`），故 GitHub slug 用英文、中文体现在仓库描述/本地目录/文档。
 
 - 规则优先级：本项目 override > 本项目规格 > 通用规范默认
 - 定位：**Obsidian = 本地主读**；GitHub = 让 GPT 等非本地 Agent 随时实读

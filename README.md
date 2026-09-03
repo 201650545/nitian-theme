@@ -20,7 +20,7 @@
 
 ## 依赖规范
 
-- 通用规范 v1.0：https://github.com/201650545/通用规范
+- 通用规范 v1.0：https://github.com/201650545/handbook（中文描述见仓库主页）
 - 项目 override：docs/03-规格与规范.md
 
 ## 项目结构
